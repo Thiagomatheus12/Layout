@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 204px;
+    height: 1024px;
+    background: #15191C;
+    color: #fff;
+}
+
+.img-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-lateral {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    Width:204px;
+    Gap:16px
+}
+
+.img-vector {
+    padding-left: 10px;
+}
+
+p {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.teste {
+    padding-left: 10px;
+}
+
